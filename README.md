@@ -1,5 +1,7 @@
 ### Olá, eu sou a Ana 
 
+#### "I'm taking a ride with my best friend I hope he never lets me down again" 
+
 <div align="center">
   <a href="https://github.com/Anasantanacs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anasantanacs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
