@@ -20,15 +20,15 @@
  
 </div>
   
- 
- ##
+##
  
 <div> 
   <a href="https://www.instagram.com/anacoraline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-carolina-silva-santana-62387423b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:anasantancs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+   <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://github.com/Anasantanacs/Anasantanacs/blob/8d58750025a77b4322e6b6957654c513c0181e94/picasion.com_77ee31ea10a65701deb8c9ad7f3a1be9.gif">
  
 </div>
   
-  <div> <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://github.com/Anasantanacs/Anasantanacs/blob/8d58750025a77b4322e6b6957654c513c0181e94/picasion.com_77ee31ea10a65701deb8c9ad7f3a1be9.gif"> </div>
+  <div> </div>
